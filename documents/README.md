@@ -26,12 +26,12 @@ Detailed information about this work and outcomes is available on the [INSPIRE M
 As part of the [European Strategy for Data](https://data.europa.eu/en/highlights/data-governance-act-open-data-directive), the Open Data Directive ([Directive (EU) 2019/1024](https://eur-lex.europa.eu/eli/dir/2019/1024/oj)) functions as a common legal framework for government-held data (public sector information) and is geared towards two key concepts in the European market: i.e. transparency and fair competition. The Directive defines high-value datasets which means “documents the re-use of which is associated with important benefits for society, the environment and the economy, in particular because of their suitability for the creation of value-added services, applications and new, high-quality and decent jobs, and of the number of potential beneficiaries of the value-added services and applications based on those datasets.” 
 
 List of **thematic categories of high-value datasets**, as referred to in Article 13(1) of the Directive (EU) 2019/1024:
-**1. Geospatial** 
-**2. Earth observation and environment** 
-**3. Meteorological** 
-**4. Statistics** 
-**5. Companies and company ownership**
-**6. Mobility**
+1. Geospatial
+2. Earth observation and environment
+3. Meteorological
+4. Statistics
+5. Companies and company ownership
+6. Mobility
 
 ## Common and interoperable European data models in scope of environmental reporting
 Streamlining of environmental reporting is progressively including geospatial data relying also on INSPIRE specifications and infrastructure. The scope of common European data models is to ensure reported data are harmonised, comparable and of certain quality to allow evaluation of environmental policies and compliance check of reporting obligations. 
@@ -49,7 +49,7 @@ Streamlining of environmental reporting is progressively including geospatial da
 * [Water Framework Directive, River Basin Management Plans](https://cdr.eionet.europa.eu/help/WFD/WFD_780_2022)
 * [Bathing Waters Directive](https://cdr.eionet.europa.eu/help/BWD)
 * [Air Quality Directive](https://aqportal.discomap.eea.europa.eu/)
-* [Natural Risk Zone (reporting under the Floods Directive)](http://cdr.eionet.europa.eu/help/Floods/Floods_2018/index.html) - (on-going)
+* [Natural Risk Zone (reporting under the Floods Directive)](http://cdr.eionet.europa.eu/help/Floods/Floods_2018/index.html) - (in progress)
 * [Drinking Water Directive (recast)] - (in progress)
 * [Sewage Sludge Directive] - (in progress)
 * [Environmental Noise Directive](https://www.eionet.europa.eu/reportnet/docs/noise) - (in-progress)
