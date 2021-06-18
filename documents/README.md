@@ -2,6 +2,8 @@
 
 Priority data sets correspond to specific use cases, such as e-Reporting (related to reporting obligations of EU environmental policies and legislation and activities on streamlining environmental reporting) or emerging legal frameworks (e.g. High Value Data Sets under the Open Data Directive, EU common data spaces, …), and support the creation and availability of pan-European datasets and applications for different policies. The Action 2.1 exchanges information on priority data sets requirements and synergies supporting the goal that “data set collected once can be shared with others for many purposes”.
 
+The [INSPIRE Geoportal](https://inspire-geoportal.ec.europa.eu/) is the central European access point to the data provided by EU Member States and several EFTA countries under the INSPIRE Directive.
+
 ## Priority list of data sets for e-Reporting
 The **INSPIRE priority list of datasets for e-Reporting** is primarily focused on the data sets in the scope of the reporting obligations of the environmental legislation. The list is a living inventory of environmental information needs and as such provides an instrument to incrementally build comparable INSPIRE maturity across MS for all INSPIRE components (metadata, services, interoperability, data sharing) based on a common setting, and to monitor the progress on INSPIRE implementation.
 
